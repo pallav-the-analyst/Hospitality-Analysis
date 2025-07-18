@@ -13,7 +13,7 @@ This Power BI dashboard was designed to deliver data-driven insights into AtliQ'
 - **Revenue Breakdown by City:** Visual bar charts show revenue contribution by city, highlighting top-performing locations.
  
 ## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/groups/11080d03-c94a-4a66-9f4c-9b708ea114e7/reports/6da7f859-963c-4619-987b-758d17137c5d/959472ba9492d31b5997?experience=power-bi).
+Explore the live dashboard [here](https://app.powerbi.com/groups/11080d03-c94a-4a66-9f4c-9b708ea114e7/reports/6da7f859-963c-4619-987b-758d17137c5d/959472ba9492d31b5997?experience=power-bi)
 
 ## Key Achievements
 - **Customization:** Tailored for AtliQ's specific needs.
